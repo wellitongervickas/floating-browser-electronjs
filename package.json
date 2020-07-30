@@ -1,7 +1,13 @@
 {
   "name": "floating-browser-electronjs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "author": "welliton gervickas <wellitogervickas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
 }
