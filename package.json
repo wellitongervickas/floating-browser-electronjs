@@ -1,0 +1,7 @@
+{
+  "name": "floating-browser-electronjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "welliton gervickas <wellitogervickas@gmail.com>",
+  "license": "MIT"
+}
